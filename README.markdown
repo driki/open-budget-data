@@ -4,8 +4,8 @@ Open Budget Data for cities and towns in the United States in CSV format. Develo
 
 Examples
 -------------------
-https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_expense.csv
-https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_revenue.csv
+* https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_expense.csv
+* https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_revenue.csv
 
 CSV Structure
 -------------------
