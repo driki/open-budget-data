@@ -2,6 +2,11 @@ Overview
 -------------------
 Open Budget Data for cities and towns in the United States in CSV format. Developers can fork the project and provide budgets for new cities and towns. Open Budget Data is the format used by the Budget Vision (http://www.budgetvision.com) presentation tool used by cities and towns to help explain their budgets to the public. Budget Vision allows you to upload your Budget Vision formatted CSV via the website or using the ingest API.
 
+Examples
+-------------------
+https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_expense.csv
+https://github.com/driki/open-budget-data/blob/master/example_open_budget_data_revenue.csv
+
 CSV Structure
 -------------------
 
