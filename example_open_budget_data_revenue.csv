@@ -1,0 +1,5 @@
+CATEGORY_IS_EXPENSE,CATEGORY_NAME,SUB_CATEGORY_NAME,CATEGORY_AMOUNT,SUB_CATEGORY_AMOUNT,CATEGORY_TAGS,SUB_CATEGORY_TAGS,ITEM_NUMBER,ITEM_NAME,ITEM_DESCRIPTION,ITEM_AMOUNT,ITEM_TAGS
+FALSE,General Administration,,"6,000,000.00",,Admin
+FALSE,General Administration,Employee Benefits,"6,000,000.00","800,000.00",Admin,Benfits
+FALSE,General Administration,,"6,000,000.00",,Admin,,1234,Printing Supplies,All paper and printing products.,"6,000.00",Supplies
+FALSE,General Administration,Employee Benefits,"6,000,000.00","800,000.00",Admin,Benfits,4321,Health Care,Payments for health care benefits.,"750,000.00",Supplies
